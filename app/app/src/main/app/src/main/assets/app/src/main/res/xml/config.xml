@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packages>
+    <package name="com.badoo.mobile" />
+    <package name="com.tinder" />
+    <!-- Добавьте здесь свои пакеты -->
+</packages>
