@@ -15,7 +15,7 @@ jobs:
       with:
         distribution: 'temurin'
         java-version: '11'
-    - uses: android-actions/setup-sdk@v2
+    - uses: android-actions/setup-sdk@v4
       with:
         api-level: 33
         build-tools: '33.0.2'
